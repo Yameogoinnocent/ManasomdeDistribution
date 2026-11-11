@@ -1,2 +1,0 @@
-# ManasomdeDistribution
-APPLI WEB
